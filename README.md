@@ -1,6 +1,6 @@
 ## CHAT APPLICATION - SOCKET SERVER
 
-This application allows user to register and browse throught the available books. The user can add them to the cart, checkout and view booking history.
+This application allows user to create a group and chat with other users. The user can register and access the chat window.
 
 This repository contains the socket server source code of the application.
 
